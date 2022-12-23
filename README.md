@@ -1,1 +1,1 @@
-# TREX
+# T-REX Clone
